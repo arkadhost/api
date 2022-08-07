@@ -1,0 +1,6 @@
+[19-Jun-2022 10:07:14 America/New_York] PHP Notice:  Trying to get property 'status' of non-object in /home/openfdsx/api.open-market-site.ml/index.php on line 17
+[19-Jun-2022 10:07:14 America/New_York] PHP Notice:  Trying to get property 'msg' of non-object in /home/openfdsx/api.open-market-site.ml/index.php on line 18
+[19-Jun-2022 10:07:19 America/New_York] PHP Notice:  Trying to get property 'status' of non-object in /home/openfdsx/api.open-market-site.ml/index.php on line 17
+[19-Jun-2022 10:07:19 America/New_York] PHP Notice:  Trying to get property 'msg' of non-object in /home/openfdsx/api.open-market-site.ml/index.php on line 18
+[19-Jun-2022 10:09:28 America/New_York] PHP Notice:  Trying to get property 'status' of non-object in /home/openfdsx/api.open-market-site.ml/index.php on line 16
+[19-Jun-2022 10:09:28 America/New_York] PHP Notice:  Trying to get property 'msg' of non-object in /home/openfdsx/api.open-market-site.ml/index.php on line 17
